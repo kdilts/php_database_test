@@ -7,7 +7,7 @@
 		// thanks w3fools
 		$servername = "localhost";
 		$username = "kdilts";
-		$password = "password";
+		$password = "";
 
 		// Create connection
 		$conn = new mysqli($servername, $username, $password);
